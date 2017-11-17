@@ -1,0 +1,910 @@
+{
+  "states" : {
+    "state20" : {
+      "name" : "state20",
+      "url" : "http://127.0.0.1:8081/main",
+      "candidateElements" : [ {
+        "top" : 543,
+        "left" : 265,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[3]/TABLE[1]/TBODY[1]/TR[1]/TD[3]/A[1]",
+        "width" : 28,
+        "height" : 26
+      }, {
+        "top" : 543,
+        "left" : 293,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[3]/TABLE[1]/TBODY[1]/TR[1]/TD[4]/A[1]",
+        "width" : 28,
+        "height" : 26
+      }, {
+        "top" : 543,
+        "left" : 421,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[3]/TABLE[1]/TBODY[1]/TR[1]/TD[10]/A[1]",
+        "width" : 28,
+        "height" : 26
+      }, {
+        "top" : 543,
+        "left" : 449,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[3]/TABLE[1]/TBODY[1]/TR[1]/TD[11]/A[1]",
+        "width" : 28,
+        "height" : 26
+      } ],
+      "fanIn" : 2,
+      "fanOut" : 2,
+      "id" : 20,
+      "failedEvents" : [ ]
+    },
+    "state9" : {
+      "name" : "state9",
+      "url" : "http://127.0.0.1:8081/main",
+      "candidateElements" : [ ],
+      "fanIn" : 1,
+      "fanOut" : 0,
+      "id" : 9,
+      "failedEvents" : [ ]
+    },
+    "state41" : {
+      "name" : "state41",
+      "url" : "http://127.0.0.1:8081/main",
+      "candidateElements" : [ ],
+      "fanIn" : 1,
+      "fanOut" : 0,
+      "id" : 41,
+      "failedEvents" : [ ]
+    },
+    "state6" : {
+      "name" : "state6",
+      "url" : "http://127.0.0.1:8081/main",
+      "candidateElements" : [ ],
+      "fanIn" : 1,
+      "fanOut" : 0,
+      "id" : 6,
+      "failedEvents" : [ ]
+    },
+    "index" : {
+      "name" : "index",
+      "url" : "http://127.0.0.1:8081/DBLab/index.jsp",
+      "candidateElements" : [ {
+        "top" : 9,
+        "left" : 1155,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[1]/DIV[1]/DIV[2]/A[1]",
+        "width" : 30,
+        "height" : 13
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[8]/DIV[1]/DIV[3]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[8]/DIV[2]/FORM[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[10]/TD[2]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 381,
+        "left" : 752,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/FORM[1]/TABLE[1]/TBODY[1]/TR[4]/TD[1]/BUTTON[1]",
+        "width" : 111,
+        "height" : 32
+      } ],
+      "fanIn" : 0,
+      "fanOut" : 2,
+      "id" : 0,
+      "failedEvents" : [ "xpath /HTML[1]/BODY[1]/DIV[8]/DIV[1]/DIV[3]/A[1]", "xpath /HTML[1]/BODY[1]/DIV[8]/DIV[2]/FORM[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[10]/TD[2]/A[1]" ]
+    },
+    "state5" : {
+      "name" : "state5",
+      "url" : "http://127.0.0.1:8081/main",
+      "candidateElements" : [ {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[1]/DIV[2]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 61,
+        "left" : 6,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[15]/DIV[1]/DIV[2]/A[1]",
+        "width" : 16,
+        "height" : 16
+      } ],
+      "fanIn" : 1,
+      "fanOut" : 1,
+      "id" : 5,
+      "failedEvents" : [ "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[1]/DIV[2]/A[1]" ]
+    },
+    "state7" : {
+      "name" : "state7",
+      "url" : "http://127.0.0.1:8081/main",
+      "candidateElements" : [ {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[3]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 88,
+        "left" : 173,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[3]/A[2]",
+        "width" : 16,
+        "height" : 16
+      } ],
+      "fanIn" : 4,
+      "fanOut" : 1,
+      "id" : 7,
+      "failedEvents" : [ "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[3]/A[1]" ]
+    },
+    "state2" : {
+      "name" : "state2",
+      "url" : "http://127.0.0.1:8081/main",
+      "candidateElements" : [ {
+        "top" : 28,
+        "left" : 1125,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[1]/DIV[1]/DIV[2]/A[1]",
+        "width" : 40,
+        "height" : 13
+      }, {
+        "top" : 28,
+        "left" : 1175,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[1]/DIV[1]/DIV[2]/A[2]",
+        "width" : 64,
+        "height" : 13
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[1]/DIV[2]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 61,
+        "left" : 173,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[1]/DIV[2]/A[2]",
+        "width" : 16,
+        "height" : 16
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[3]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 88,
+        "left" : 173,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[3]/A[2]",
+        "width" : 16,
+        "height" : 16
+      }, {
+        "top" : 129,
+        "left" : 21,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/A[1]",
+        "width" : 64,
+        "height" : 13
+      }, {
+        "top" : 151,
+        "left" : 21,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/A[1]",
+        "width" : 64,
+        "height" : 13
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[2]/DIV[1]/DIV[3]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 503,
+        "left" : 173,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[2]/DIV[1]/DIV[3]/A[2]",
+        "width" : 16,
+        "height" : 16
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[2]/DIV[2]/DIV[1]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[3]/DIV[1]/DIV[3]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 530,
+        "left" : 173,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[3]/DIV[1]/DIV[3]/A[2]",
+        "width" : 16,
+        "height" : 16
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[3]/DIV[2]/DIV[1]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[4]/DIV[1]/DIV[3]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 557,
+        "left" : 173,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[4]/DIV[1]/DIV[3]/A[2]",
+        "width" : 16,
+        "height" : 16
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[4]/DIV[2]/DIV[1]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[4]/DIV[2]/DIV[2]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[4]/DIV[2]/DIV[3]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 58,
+        "left" : 205,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[1]/DIV[3]/UL[1]/LI[1]/A[1]",
+        "width" : 64,
+        "height" : 27
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[3]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 90,
+        "left" : 1238,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[3]/A[2]",
+        "width" : 16,
+        "height" : 16
+      }, {
+        "top" : 1419,
+        "left" : 664,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[4]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/A[1]",
+        "width" : 28,
+        "height" : 26
+      }, {
+        "top" : 1419,
+        "left" : 692,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[4]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/A[1]",
+        "width" : 28,
+        "height" : 26
+      }, {
+        "top" : 1419,
+        "left" : 820,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[4]/TABLE[1]/TBODY[1]/TR[1]/TD[8]/A[1]",
+        "width" : 28,
+        "height" : 26
+      }, {
+        "top" : 1419,
+        "left" : 848,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[4]/TABLE[1]/TBODY[1]/TR[1]/TD[9]/A[1]",
+        "width" : 28,
+        "height" : 26
+      }, {
+        "top" : 587,
+        "left" : 93,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[4]/DIV[1]/A[1]",
+        "width" : 48,
+        "height" : 13
+      }, {
+        "top" : 587,
+        "left" : 170,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[4]/DIV[1]/A[2]",
+        "width" : 50,
+        "height" : 13
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[9]/DIV[1]/DIV[2]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[9]/DIV[2]/FORM[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[10]/TD[2]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[12]/DIV[1]/DIV[2]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 216,
+        "left" : 1113,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[2]/BUTTON[1]",
+        "width" : 111,
+        "height" : 32
+      } ],
+      "fanIn" : 4,
+      "fanOut" : 13,
+      "id" : 2,
+      "failedEvents" : [ "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[1]/DIV[2]/A[1]", "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[3]/A[1]", "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[2]/DIV[1]/DIV[3]/A[1]", "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[2]/DIV[2]/DIV[1]/A[1]", "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[3]/DIV[1]/DIV[3]/A[1]", "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[3]/DIV[2]/DIV[1]/A[1]", "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[4]/DIV[1]/DIV[3]/A[1]", "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[4]/DIV[2]/DIV[1]/A[1]", "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[4]/DIV[2]/DIV[2]/A[1]", "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[4]/DIV[2]/DIV[3]/A[1]", "xpath /HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[3]/A[1]", "xpath /HTML[1]/BODY[1]/DIV[9]/DIV[1]/DIV[2]/A[1]", "xpath /HTML[1]/BODY[1]/DIV[9]/DIV[2]/FORM[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[10]/TD[2]/A[1]", "xpath /HTML[1]/BODY[1]/DIV[12]/DIV[1]/DIV[2]/A[1]" ]
+    },
+    "state1" : {
+      "name" : "state1",
+      "url" : "http://127.0.0.1:8081/DBLab/index.jsp",
+      "candidateElements" : [ ],
+      "fanIn" : 1,
+      "fanOut" : 0,
+      "id" : 1,
+      "failedEvents" : [ ]
+    },
+    "state4" : {
+      "name" : "state4",
+      "url" : "http://127.0.0.1:8081/main",
+      "candidateElements" : [ ],
+      "fanIn" : 1,
+      "fanOut" : 0,
+      "id" : 4,
+      "failedEvents" : [ ]
+    },
+    "state29" : {
+      "name" : "state29",
+      "url" : "http://127.0.0.1:8081/main",
+      "candidateElements" : [ {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[4]/DIV[1]/DIV[3]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 169,
+        "left" : 173,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[4]/DIV[1]/DIV[3]/A[2]",
+        "width" : 16,
+        "height" : 16
+      } ],
+      "fanIn" : 1,
+      "fanOut" : 1,
+      "id" : 29,
+      "failedEvents" : [ "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[4]/DIV[1]/DIV[3]/A[1]" ]
+    },
+    "state13" : {
+      "name" : "state13",
+      "url" : "http://127.0.0.1:8081/main",
+      "candidateElements" : [ ],
+      "fanIn" : 1,
+      "fanOut" : 0,
+      "id" : 13,
+      "failedEvents" : [ ]
+    },
+    "state11" : {
+      "name" : "state11",
+      "url" : "http://127.0.0.1:8081/main",
+      "candidateElements" : [ {
+        "top" : 245,
+        "left" : 757,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[17]/DIV[1]/DIV[2]/A[1]",
+        "width" : 16,
+        "height" : 16
+      }, {
+        "top" : 330,
+        "left" : 609,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[17]/DIV[2]/DIV[4]/A[1]",
+        "width" : 51,
+        "height" : 24
+      } ],
+      "fanIn" : 2,
+      "fanOut" : 2,
+      "id" : 11,
+      "failedEvents" : [ ]
+    },
+    "state33" : {
+      "name" : "state33",
+      "url" : "http://127.0.0.1:8081/main",
+      "candidateElements" : [ ],
+      "fanIn" : 1,
+      "fanOut" : 0,
+      "id" : 33,
+      "failedEvents" : [ ]
+    },
+    "state44" : {
+      "name" : "state44",
+      "url" : "http://127.0.0.1:8081/main",
+      "candidateElements" : [ ],
+      "fanIn" : 1,
+      "fanOut" : 0,
+      "id" : 44,
+      "failedEvents" : [ ]
+    },
+    "state10" : {
+      "name" : "state10",
+      "url" : "http://127.0.0.1:8081/main",
+      "candidateElements" : [ {
+        "top" : 123,
+        "left" : 216,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/A[1]",
+        "width" : 56,
+        "height" : 26
+      }, {
+        "top" : 123,
+        "left" : 275,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/A[2]",
+        "width" : 56,
+        "height" : 26
+      }, {
+        "top" : 123,
+        "left" : 335,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/A[3]",
+        "width" : 80,
+        "height" : 26
+      }, {
+        "top" : 543,
+        "left" : 265,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[3]/TABLE[1]/TBODY[1]/TR[1]/TD[3]/A[1]",
+        "width" : 28,
+        "height" : 26
+      }, {
+        "top" : 543,
+        "left" : 293,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[3]/TABLE[1]/TBODY[1]/TR[1]/TD[4]/A[1]",
+        "width" : 28,
+        "height" : 26
+      }, {
+        "top" : 543,
+        "left" : 421,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[3]/TABLE[1]/TBODY[1]/TR[1]/TD[10]/A[1]",
+        "width" : 28,
+        "height" : 26
+      }, {
+        "top" : 543,
+        "left" : 449,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[3]/TABLE[1]/TBODY[1]/TR[1]/TD[11]/A[1]",
+        "width" : 28,
+        "height" : 26
+      }, {
+        "top" : 543,
+        "left" : 481,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[3]/TABLE[1]/TBODY[1]/TR[1]/TD[13]/A[1]",
+        "width" : 28,
+        "height" : 26
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[15]/DIV[1]/DIV[2]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[15]/DIV[1]/DIV[2]/A[2]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[15]/DIV[1]/DIV[2]/A[3]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[15]/DIV[1]/DIV[2]/A[4]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[15]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[15]/DIV[2]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/A[1]",
+        "width" : 0,
+        "height" : 0
+      } ],
+      "fanIn" : 5,
+      "fanOut" : 5,
+      "id" : 10,
+      "failedEvents" : [ "xpath /HTML[1]/BODY[1]/DIV[15]/DIV[1]/DIV[2]/A[1]", "xpath /HTML[1]/BODY[1]/DIV[15]/DIV[1]/DIV[2]/A[2]", "xpath /HTML[1]/BODY[1]/DIV[15]/DIV[1]/DIV[2]/A[3]", "xpath /HTML[1]/BODY[1]/DIV[15]/DIV[1]/DIV[2]/A[4]", "xpath /HTML[1]/BODY[1]/DIV[15]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/A[1]", "xpath /HTML[1]/BODY[1]/DIV[15]/DIV[2]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/A[1]" ]
+    },
+    "state32" : {
+      "name" : "state32",
+      "url" : "http://127.0.0.1:8081/main",
+      "candidateElements" : [ {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[3]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 91,
+        "left" : 1237,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[5]/DIV[1]/DIV[2]/A[1]",
+        "width" : 16,
+        "height" : 16
+      } ],
+      "fanIn" : 1,
+      "fanOut" : 1,
+      "id" : 32,
+      "failedEvents" : [ "xpath /HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[3]/A[1]" ]
+    },
+    "state43" : {
+      "name" : "state43",
+      "url" : "http://127.0.0.1:8081/main",
+      "candidateElements" : [ {
+        "top" : 161,
+        "left" : 807,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[12]/DIV[1]/DIV[3]/A[1]",
+        "width" : 16,
+        "height" : 16
+      }, {
+        "top" : 419,
+        "left" : 738,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[12]/DIV[2]/DIV[2]/A[1]",
+        "width" : 80,
+        "height" : 24
+      } ],
+      "fanIn" : 1,
+      "fanOut" : 1,
+      "id" : 43,
+      "failedEvents" : [ ]
+    },
+    "state38" : {
+      "name" : "state38",
+      "url" : "http://127.0.0.1:8081/main",
+      "candidateElements" : [ {
+        "top" : 525,
+        "left" : 820,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[4]/TABLE[1]/TBODY[1]/TR[1]/TD[8]/A[1]",
+        "width" : 28,
+        "height" : 26
+      }, {
+        "top" : 525,
+        "left" : 848,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[4]/TABLE[1]/TBODY[1]/TR[1]/TD[9]/A[1]",
+        "width" : 28,
+        "height" : 26
+      } ],
+      "fanIn" : 1,
+      "fanOut" : 0,
+      "id" : 38,
+      "failedEvents" : [ ]
+    },
+    "state14" : {
+      "name" : "state14",
+      "url" : "http://127.0.0.1:8081/main",
+      "candidateElements" : [ {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[2]/DIV[1]/DIV[3]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 115,
+        "left" : 173,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[2]/DIV[1]/DIV[3]/A[2]",
+        "width" : 16,
+        "height" : 16
+      } ],
+      "fanIn" : 1,
+      "fanOut" : 1,
+      "id" : 14,
+      "failedEvents" : [ "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[2]/DIV[1]/DIV[3]/A[1]" ]
+    },
+    "state25" : {
+      "name" : "state25",
+      "url" : "http://127.0.0.1:8081/main",
+      "candidateElements" : [ {
+        "top" : 0,
+        "left" : 0,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[3]/DIV[1]/DIV[3]/A[1]",
+        "width" : 0,
+        "height" : 0
+      }, {
+        "top" : 142,
+        "left" : 173,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[3]/DIV[1]/DIV[3]/A[2]",
+        "width" : 16,
+        "height" : 16
+      } ],
+      "fanIn" : 1,
+      "fanOut" : 1,
+      "id" : 25,
+      "failedEvents" : [ "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[3]/DIV[1]/DIV[3]/A[1]" ]
+    },
+    "state36" : {
+      "name" : "state36",
+      "url" : "http://127.0.0.1:8081/main",
+      "candidateElements" : [ {
+        "top" : 525,
+        "left" : 664,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[4]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/A[1]",
+        "width" : 28,
+        "height" : 26
+      }, {
+        "top" : 525,
+        "left" : 692,
+        "xpath" : "/HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[4]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/A[1]",
+        "width" : 28,
+        "height" : 26
+      } ],
+      "fanIn" : 1,
+      "fanOut" : 2,
+      "id" : 36,
+      "failedEvents" : [ ]
+    }
+  },
+  "edges" : [ {
+    "from" : "index",
+    "to" : "state1",
+    "text" : "注册",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[1]/DIV[1]/DIV[2]/A[1]",
+    "element" : "Element{node=[A: null], tag=A, text=注册, attributes={href=javascript:void(0);, onclick=$('#window-regist').window('open'), style=text-decoration:none;}}",
+    "eventType" : "click"
+  }, {
+    "from" : "index",
+    "to" : "state2",
+    "text" : "登录",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/FORM[1]/TABLE[1]/TBODY[1]/TR[4]/TD[1]/BUTTON[1]",
+    "element" : "Element{node=[BUTTON: null], tag=BUTTON, text=登录, attributes={class=loginbutton, id=btnLogin, onfocus=this.blur();, type=button, value=登 录}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state2",
+    "to" : "state4",
+    "text" : "返回首页",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[1]/DIV[1]/DIV[2]/A[2]",
+    "element" : "Element{node=[A: null], tag=A, text=返回首页, attributes={href=main, id=return-main}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state2",
+    "to" : "state5",
+    "text" : "",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[1]/DIV[2]/A[2]",
+    "element" : "Element{node=[A: null], tag=A, text=, attributes={class=layout-button-left, href=javascript:void(0)}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state5",
+    "to" : "state6",
+    "text" : "",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[15]/DIV[1]/DIV[2]/A[1]",
+    "element" : "Element{node=[A: null], tag=A, text=, attributes={class=layout-button-right, href=javascript:void(0)}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state2",
+    "to" : "state7",
+    "text" : "",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[3]/A[2]",
+    "element" : "Element{node=[A: null], tag=A, text=, attributes={class=accordion-collapse, href=javascript:void(0)}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state7",
+    "to" : "state2",
+    "text" : "",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[3]/A[2]",
+    "element" : "Element{node=[A: null], tag=A, text=, attributes={class=accordion-collapse accordion-expand, href=javascript:void(0)}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state2",
+    "to" : "state9",
+    "text" : " 组会安排",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/A[1]",
+    "element" : "Element{node=[A: null], tag=A, text= 组会安排, attributes={data-action=Report, data-ajax=true, data-method=arrange, data-permissions=true, href=javascript:void(0)}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state2",
+    "to" : "state10",
+    "text" : " 用户信息",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/A[1]",
+    "element" : "Element{node=[A: null], tag=A, text= 用户信息, attributes={data-action=User, data-ajax=true, data-method=home, data-permissions=true, href=javascript:void(0)}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state10",
+    "to" : "state11",
+    "text" : "删除",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/A[1]",
+    "element" : "Element{node=[A: null], tag=A, text=删除, attributes={class=easyui-linkbutton l-btn l-btn-plain, group=, href=javascript:void(0);, iconcls=icon-delete, id=tool-user-delete, plain=true}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state11",
+    "to" : "state10",
+    "text" : "",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[17]/DIV[1]/DIV[2]/A[1]",
+    "element" : "Element{node=[A: null], tag=A, text=, attributes={class=panel-tool-close, href=javascript:void(0)}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state10",
+    "to" : "state13",
+    "text" : "授权",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/A[2]",
+    "element" : "Element{node=[A: null], tag=A, text=授权, attributes={class=easyui-linkbutton l-btn l-btn-plain, group=, href=javascript:void(0);, iconcls=icon-identity, id=tool-user-authorization, plain=true}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state2",
+    "to" : "state14",
+    "text" : "",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[2]/DIV[1]/DIV[3]/A[2]",
+    "element" : "Element{node=[A: null], tag=A, text=, attributes={class=accordion-collapse accordion-expand, href=javascript:void(0)}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state14",
+    "to" : "state7",
+    "text" : "",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[2]/DIV[1]/DIV[3]/A[2]",
+    "element" : "Element{node=[A: null], tag=A, text=, attributes={class=accordion-collapse, href=javascript:void(0)}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state10",
+    "to" : "state11",
+    "text" : "审核通过",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/A[3]",
+    "element" : "Element{node=[A: null], tag=A, text=审核通过, attributes={class=easyui-linkbutton l-btn l-btn-plain, group=, href=javascript:void(0);, iconcls=icon-ok, id=tool-user-verify, plain=true}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state11",
+    "to" : "state10",
+    "text" : "Ok",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[17]/DIV[2]/DIV[4]/A[1]",
+    "element" : "Element{node=[A: null], tag=A, text=Ok, attributes={class=l-btn, group=, href=javascript:void(0), id=, style=margin-left: 10px;}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state10",
+    "to" : "state20",
+    "text" : " ",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[3]/TABLE[1]/TBODY[1]/TR[1]/TD[10]/A[1]",
+    "element" : "Element{node=[A: null], tag=A, text= , attributes={class=l-btn l-btn-plain, group=, href=javascript:void(0), id=}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state20",
+    "to" : "state10",
+    "text" : " ",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[3]/TABLE[1]/TBODY[1]/TR[1]/TD[3]/A[1]",
+    "element" : "Element{node=[A: null], tag=A, text= , attributes={class=l-btn l-btn-plain, group=, href=javascript:void(0), id=}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state10",
+    "to" : "state20",
+    "text" : " ",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[3]/TABLE[1]/TBODY[1]/TR[1]/TD[11]/A[1]",
+    "element" : "Element{node=[A: null], tag=A, text= , attributes={class=l-btn l-btn-plain, group=, href=javascript:void(0), id=}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state20",
+    "to" : "state10",
+    "text" : " ",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[3]/TABLE[1]/TBODY[1]/TR[1]/TD[4]/A[1]",
+    "element" : "Element{node=[A: null], tag=A, text= , attributes={class=l-btn l-btn-plain, group=, href=javascript:void(0), id=}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state2",
+    "to" : "state25",
+    "text" : "",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[3]/DIV[1]/DIV[3]/A[2]",
+    "element" : "Element{node=[A: null], tag=A, text=, attributes={class=accordion-collapse accordion-expand, href=javascript:void(0)}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state25",
+    "to" : "state7",
+    "text" : "",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[3]/DIV[1]/DIV[3]/A[2]",
+    "element" : "Element{node=[A: null], tag=A, text=, attributes={class=accordion-collapse, href=javascript:void(0)}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state2",
+    "to" : "state29",
+    "text" : "",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[4]/DIV[1]/DIV[3]/A[2]",
+    "element" : "Element{node=[A: null], tag=A, text=, attributes={class=accordion-collapse accordion-expand, href=javascript:void(0)}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state29",
+    "to" : "state7",
+    "text" : "",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[2]/DIV[2]/DIV[1]/DIV[4]/DIV[1]/DIV[3]/A[2]",
+    "element" : "Element{node=[A: null], tag=A, text=, attributes={class=accordion-collapse, href=javascript:void(0)}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state2",
+    "to" : "state32",
+    "text" : "",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[3]/A[2]",
+    "element" : "Element{node=[A: null], tag=A, text=, attributes={class=layout-button-right, href=javascript:void(0)}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state32",
+    "to" : "state33",
+    "text" : "",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[5]/DIV[1]/DIV[2]/A[1]",
+    "element" : "Element{node=[A: null], tag=A, text=, attributes={class=layout-button-left, href=javascript:void(0)}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state2",
+    "to" : "state36",
+    "text" : " ",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[4]/TABLE[1]/TBODY[1]/TR[1]/TD[8]/A[1]",
+    "element" : "Element{node=[A: null], tag=A, text= , attributes={class=l-btn l-btn-plain, group=, href=javascript:void(0), id=}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state36",
+    "to" : "state2",
+    "text" : " ",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[4]/TABLE[1]/TBODY[1]/TR[1]/TD[1]/A[1]",
+    "element" : "Element{node=[A: null], tag=A, text= , attributes={class=l-btn l-btn-plain, group=, href=javascript:void(0), id=}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state2",
+    "to" : "state38",
+    "text" : " ",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[4]/TABLE[1]/TBODY[1]/TR[1]/TD[9]/A[1]",
+    "element" : "Element{node=[A: null], tag=A, text= , attributes={class=l-btn l-btn-plain, group=, href=javascript:void(0), id=}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state2",
+    "to" : "state41",
+    "text" : "修改信息",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[4]/DIV[1]/A[1]",
+    "element" : "Element{node=[A: null], tag=A, text=修改信息, attributes={href=javascript:void(0);, id=tools-index-editinfo}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state36",
+    "to" : "state2",
+    "text" : " ",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[3]/DIV[1]/DIV[1]/DIV[2]/DIV[1]/DIV[1]/DIV[1]/DIV[2]/DIV[2]/DIV[4]/TABLE[1]/TBODY[1]/TR[1]/TD[2]/A[1]",
+    "element" : "Element{node=[A: null], tag=A, text= , attributes={class=l-btn l-btn-plain, group=, href=javascript:void(0), id=}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state2",
+    "to" : "state43",
+    "text" : "BUG反馈",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[4]/DIV[1]/A[2]",
+    "element" : "Element{node=[A: null], tag=A, text=BUG反馈, attributes={href=javascript:void(0);, id=tools-index-bug}}",
+    "eventType" : "click"
+  }, {
+    "from" : "state43",
+    "to" : "state44",
+    "text" : "",
+    "id" : "xpath /HTML[1]/BODY[1]/DIV[12]/DIV[1]/DIV[3]/A[1]",
+    "element" : "Element{node=[A: null], tag=A, text=, attributes={class=panel-tool-close, href=javascript:void(0)}}",
+    "eventType" : "click"
+  } ],
+  "statistics" : {
+    "duration" : "1 minute 46 seconds",
+    "crawlPaths" : 27,
+    "averageDomSize" : "29.978 kB",
+    "edges" : 33,
+    "startDate" : "2017-07-07 10:06:12 CST",
+    "stateStats" : {
+      "leastFanOut" : {
+        "id" : "state9",
+        "count" : 0
+      },
+      "leastFanIn" : {
+        "id" : "index",
+        "count" : 0
+      },
+      "mostFanOut" : {
+        "id" : "state2",
+        "count" : 13
+      },
+      "mostFanIn" : {
+        "id" : "state10",
+        "count" : 5
+      },
+      "totalNumberOfStates" : 22,
+      "urls" : {
+        "http://127.0.0.1:8081/main" : [ "state20", "state9", "state41", "state6", "state5", "state7", "state2", "state4", "state29", "state13", "state11", "state33", "state44", "state10", "state32", "state43", "state38", "state14", "state25", "state36" ],
+        "http://127.0.0.1:8081/DBLab/index.jsp" : [ "index", "state1" ]
+      }
+    },
+    "failedEvents" : 28
+  },
+  "exitStatus" : "EXHAUSTED"
+}
